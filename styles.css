@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.photo{
+	height : 10rem;
+	border-radius : 50%;
+}
+	.left{
+		width : 250px
+	}
+	.name{
+		text-align : center;
+		
+	}
